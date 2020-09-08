@@ -1,6 +1,10 @@
 
 ## Angelica Martinez Website
 
+**Data Guide** [https://angelica-martinez.github.io/dataguide/]
+
+**Data Visualization** [https://angelica-martinez.github.io/datavisualization/]
+
 **Journalism in the Age of Data-notes**
 
 A video report on data visualization as a storytelling medium | Produced during a 2009-2010 Knight Journalism Fellowship | Total Running Time: 54 Minutes; with related information and links.
